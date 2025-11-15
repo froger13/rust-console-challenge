@@ -1,1 +1,6 @@
-Basic Cargo.toml with package name "menu-simple"
+[package]
+name = "menu-simple"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
