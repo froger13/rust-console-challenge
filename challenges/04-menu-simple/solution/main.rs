@@ -1,0 +1,1 @@
+Complete solution showing menu loop, input reading, parsing, match statement, and screen clearing

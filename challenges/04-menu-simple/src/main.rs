@@ -1,0 +1,1 @@
+Template with TODO comments for students to implement interactive menu with stdin reading
