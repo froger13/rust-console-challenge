@@ -1,1 +1,0 @@
-/home/runner/work/rust-console-challenge/rust-console-challenge/challenges/01-loader-puntos/target/debug/loader-puntos: /home/runner/work/rust-console-challenge/rust-console-challenge/challenges/01-loader-puntos/src/main.rs
